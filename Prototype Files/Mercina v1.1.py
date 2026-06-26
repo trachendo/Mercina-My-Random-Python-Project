@@ -119,13 +119,6 @@ while True:
         print("You've lost!")
         break
 
-
-
-
-# Don't ask.
-    else:
-        print("An impossible error has occured.")
-
 # If you're here, I appreciate you taking the time to reading my code.
 # Thank you and I'll see you in Mercina v1.2!
 
